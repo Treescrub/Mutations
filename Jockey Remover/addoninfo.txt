@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Jockey Remover"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID "LEAVE THIS BLANK"
+addonDescription "Removes jockeys if you host a local server"
+}

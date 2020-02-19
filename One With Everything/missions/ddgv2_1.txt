@@ -1,0 +1,95 @@
+"mission"
+{
+	"Name"		"drdegov21"
+
+
+	"Version"       "1"
+
+
+	"Author"	"cincinnati"
+
+	"Website"	"http://steamcommunity.com/workshop/filedetails/?id=205465933"
+
+	"DisplayTitle"	"drop dead gorges v2.1"
+	"Description"  	"learn the campaign in coop, play the campaign in vs."
+
+ 	"OuttroImage"	"vgui\ddg_outro"
+	"meleeweapons"		"fireaxe;katana;baseball_bat;machete;golfclub;launcher"
+	"allow_cola"		"0"
+	"no_wpn_restore"	"1"		
+	"no_female_boomers"	"1"		
+	"no_cs_weapons"		"1"		
+ 
+	"survivor_set"		"1"		
+
+	"poster"
+	{
+
+		"posterImage"		"ddg_load_v2"
+		"posterImage_widescreen"	"ddg_load_v2_widescreen"
+
+		"fullscreen"				"1"
+
+
+	}
+
+
+
+	"modes"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map" "ddg1_tower_v2_1"
+				"DisplayName" "tower"
+				"Image" "maps/ddg1_thumb"
+			}
+
+			"2"
+			{
+				"Map" "ddg2_gristmill_v2"
+				"DisplayName" "gristmill"
+				"Image" "maps/ddg2_thumb"
+			}
+
+			"3"
+			{
+				"Map" "ddg3_bluff_v2_1"
+				"DisplayName" "bluff"
+				"Image" "maps/ddg3_thumb"
+			}
+		}
+
+		"versus"
+		{
+			"1"
+			{
+				"Map" "ddg1_tower_v2_1"
+				"DisplayName" "tower"
+				"Image" "maps/ddg1_thumb"
+                                "VersusCompletionScore"	"300"
+			}
+
+			"2"
+			{
+				"Map" "ddg2_gristmill_v2"
+				"DisplayName" "gristmill"
+				"Image" "maps/ddg2_thumb"
+                                "VersusCompletionScore"	"500"
+			}
+
+			"3"
+			{
+				"Map" "ddg3_bluff_v2_1"
+				"DisplayName" "bluff"
+				"Image" "maps/ddg3_thumb"
+                                "VersusCompletionScore"	"800"
+			}
+		}
+
+	
+
+	}
+
+}

@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Everything Bagel"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID "STEAM_1:0:37801114"
+addonDescription "Sunday Driver, Addicted, Jumpman, and Blastoff all together in one mutation!"
+}

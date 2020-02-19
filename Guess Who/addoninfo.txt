@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Guess Who"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonDescription "More commons. Invisible specials. What could go wrong?"
+}

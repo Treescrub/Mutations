@@ -1,0 +1,3 @@
+DirectorOptions <- {
+	JockeyLimit = 0
+}

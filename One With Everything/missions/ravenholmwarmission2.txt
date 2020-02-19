@@ -1,0 +1,97 @@
+"mission"
+{
+	"Name"		"ravenholmwar2"
+	"Version"       "2"
+	"Author"	"warplane11"
+	"Website"	"http://www.l4dmaps.com/details.php?file=6017"
+	"DisplayTitle"	"We Don't Go To Ravenholm 2"
+	"Description"  	"A port of the Ravenholm maps from Half Life 2 for Left 4 Dead 2"
+ 	"OuttroImage"	"VGUI\outrotitle_ravenwarposter"
+ 
+	"meleeweapons" "tonfa;frying_pan;machete;electric_guitar;baseball_bat;crowbar;fireaxe;golfclub;launcher"
+
+	"poster"
+	{
+		"posterImage"		"loadingscreen_ravenwarposter2"
+		"posterImage_widescreen"	"loadingscreen_ravenwarposter_widescreen2"
+		"fullscreen"		"1"
+	}
+ 
+ 
+	"modes"
+	{
+		"coop"
+		{
+			"1"
+			{
+				"Map" "l4d2_ravenholmwar_1"
+				"DisplayName" "Welcome To Ravenholm"
+				"Image" "maps\ravenwarthumb_1"
+			}
+			"2"
+			{
+				"Map" "l4d2_ravenholmwar_2"
+				"DisplayName" "The Streets"
+				"Image" "maps\ravenwarthumb_2"
+			}
+			"3"
+			{
+				"Map" "l4d2_ravenholmwar_3"
+				"DisplayName" "The Mines"
+				"Image" "maps\ravenwarthumb_3"
+			}
+			"4"
+			{
+				"Map" "l4d2_ravenholmwar_4"
+				"DisplayName" "The Trainyard"
+				"Image" "maps\ravenwarthumb_4"
+			}
+		}	
+		"versus"
+		{
+			"1"
+			{
+				"Map" "l4d2_ravenholmwar_1"
+				"DisplayName" "Welcome To Ravenholm (VS)"
+				"Image" "maps\ravenwarthumb_1"
+				"VersusCompletionScore"	"500"
+			}
+			"2"
+			{
+				"Map" "l4d2_ravenholmwar_2"
+				"DisplayName" "The Streets (VS)"
+				"Image" "maps\ravenwarthumb_2"
+				"VersusCompletionScore"	"600"
+			}
+			"3"
+			{
+				"Map" "l4d2_ravenholmwar_3"
+				"DisplayName" "The Mines (VS)"
+				"Image" "maps\ravenwarthumb_3"
+				"VersusCompletionScore"	"800"
+			}
+			"4"
+			{
+				"Map" "l4d2_ravenholmwar_4"
+				"DisplayName" "The Trainyard (VS)"
+				"Image" "maps\ravenwarthumb_4"
+				"VersusCompletionScore"	"800"
+			}
+		}
+		"survival"
+		{
+			"1"
+			{
+				"Map" "l4d2_ravenholmwar_sv"
+				"DisplayName" "Town Square"
+				"Image" "maps\ravenwarthumb_sv"
+			}
+			"2"
+			{
+				"Map" "l4d2_ravenholmwar_4"
+				"DisplayName" "The Trainyard"
+				"Image" "maps\ravenwarthumb_4"
+			}
+		}
+	}
+}

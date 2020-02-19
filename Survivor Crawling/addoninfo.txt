@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Survivor Crawling"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID "LEAVE THIS BLANK"
+addonDescription "Allows survivors to crawl while downed"
+}

@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Schizophrenia"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonDescription "The apocalypse has finally gotten to you. You've started hearing things that are not there and you can't see clearly, but there are still very real threats looming in the fog."
+}

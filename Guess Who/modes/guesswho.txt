@@ -1,0 +1,11 @@
+"guesswho"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Guess Who"
+	"Description"	"More commons. Invisible specials."
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	

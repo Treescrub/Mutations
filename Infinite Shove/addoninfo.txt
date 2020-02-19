@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Infinite Shove"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID "LEAVE THIS BLANK"
+addonDescription "Removes the cooldown for shoving"
+}

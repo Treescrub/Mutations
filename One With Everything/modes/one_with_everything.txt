@@ -1,0 +1,40 @@
+"one_with_everything"
+{
+	"base"		"coop"
+
+	"maxplayers"	"1"
+
+	"DisplayTitle"	"One With Everything"
+	"Description"	"Some of the previous Fortnight Challenges combined"
+	"Image"		"maps/any"
+	"Author"		"Daroot Leafstorm"
+
+	convar
+	{
+		z_lunge_interval 0
+		z_lunge_power 800
+		z_lunge_up 150
+		z_special_spawn_interval 25
+		z_pounce_crouch_delay 0
+		z_hunter_speed 600
+		z_jockey_speed 437
+		tongue_fly_speed 2000
+		tongue_range 1125
+		tongue_victim_max_speed 500
+		tongue_victim_accuracy_penalty -1
+		z_jockey_leap_range 250
+		z_leap_power 700
+		z_leap_attach_distance 20
+		z_leap_force_attach_distance 20
+		z_leap_interval 0.75
+		z_vomit_velocity 3400
+		z_speed 375
+		z_tank_speed 368
+		z_tank_health 2000
+		z_witch_speed 600
+		z_witch_anger_rate 0.4
+		z_charge_max_speed 1000
+
+		adrenaline_run_speed 330
+	}
+}	
