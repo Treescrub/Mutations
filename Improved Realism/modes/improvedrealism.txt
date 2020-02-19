@@ -1,0 +1,30 @@
+"improvedrealism"
+{
+	"base"		"realism"
+	"hasdifficulty" "1"
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Improved Realism"
+	"Description"	"A better Realism experience"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+
+	convar
+	{
+		sv_disable_glow_survivors 1
+		sv_disable_glow_faritems 1
+		sv_rescue_disabled 1
+		z_non_head_damage_factor_multiplier 0.5
+		z_head_damage_causes_wounds 1
+		z_use_next_difficulty_damage_factor 1
+		z_witch_always_kills 1
+		bullet_ff_through_walls 1
+		hud_targetid_name_height 9999999
+		adrenaline_backpack_speedup 1
+		adrenaline_health_buffer 0
+		adrenaline_revive_speedup 0.5
+		pain_pills_decay_rate 0.5
+		z_survivor_respawn_health 25
+		hud_deathnotice_bots 0
+	}
+}	
