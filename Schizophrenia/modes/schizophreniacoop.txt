@@ -1,0 +1,32 @@
+"schizophreniacoop"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Schizophrenia Coop"
+	"Description"	"The stress of the apocalypse has finally gotten to you. Now with friends!"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+
+	convar
+	{
+		"fog_maxdensity" 1
+		"fog_override" 1
+		"fog_enable" 1
+		"fog_start" 0
+		"fog_end" 400
+		"fog_startskybox" -10000
+		"fog_color" "15 15 15"
+		"fog_colorskybox" "15 15 15"
+		"fog_endskybox" -10000
+		"fog_enableskybox" 1
+		"music_manager" 1
+		"r_flashlightbrightness" 1
+		"r_flashlightfov" 100
+		"sv_pausable" 0
+		"hud_targetid_name_height" 999999
+		"z_witch_threat_normal_range" 200
+		"z_witch_threat_hostile_range" 500
+	}
+}	

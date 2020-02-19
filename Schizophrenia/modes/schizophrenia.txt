@@ -1,0 +1,32 @@
+"schizophrenia"
+{
+	"base"		"coop"
+
+	"maxplayers"	"1"
+
+	"DisplayTitle"	"Schizophrenia"
+	"Description"	"The stress of the apocalypse has finally gotten to you."
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+
+	convar
+	{
+		"fog_maxdensity" 1
+		"fog_override" 1
+		"fog_enable" 1
+		"fog_start" 0
+		"fog_end" 400
+		"fog_startskybox" -10000
+		"fog_color" "15 15 15"
+		"fog_colorskybox" "15 15 15"
+		"fog_endskybox" -10000
+		"fog_enableskybox" 1
+		"music_manager" 0
+		"r_flashlightbrightness" 0.5
+		"r_flashlightfov" 100
+		"sv_pausable" 1
+		"z_jockey_ride_damage" 16
+		"z_witch_threat_normal_range" 200
+		"z_witch_threat_hostile_range" 500
+	}
+}	
