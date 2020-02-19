@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	addonSteamAppID "550"
+	addontitle "First Person Pins"
+	addonversion "1"
+	addonauthor "Daroot Leafstorm"
+	addonauthorSteamID ""
+	addonDescription "When pinned, the camera will be in first person"
+}

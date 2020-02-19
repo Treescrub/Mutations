@@ -1,0 +1,12 @@
+"zedtime_survival"
+{
+	"base"		"survival"
+
+	"maxplayers"	"4"
+	"hasdifficulty"	"1"
+
+	"DisplayTitle"	"ZED Time (Survival)"
+	"Description"	"Slow time down by killing zombies!"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	

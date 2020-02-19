@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "ZED Time"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonDescription "Time slows down when you massacre zombies!"
+}

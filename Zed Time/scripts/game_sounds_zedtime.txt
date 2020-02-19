@@ -1,0 +1,17 @@
+"Zedtime_Start"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	
+	"wave" "@#zedtime_start.wav"
+}
+
+"Zedtime_End"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"soundlevel"	"SNDLVL_NONE"
+	
+	"wave" "@#zedtime_end.wav"
+}

@@ -1,0 +1,59 @@
+"ClientMenu"
+{
+	
+	"Menu"
+	{
+		"Title"		"Deathmatch Menu"
+
+		"1"
+		{
+			"command"	"play buttons/button14; scripted_user_func showhost"
+			"label"		" Host Menu"
+		}
+		"2"
+		{
+			"command"	"play buttons/button11; scripted_user_func votestart"
+			"label"		" Vote to Start"
+		}
+		"3"
+		{
+			"command"	"play buttons/button11; scripted_user_func votestop"
+			"label"		" Vote to Stop"
+		}
+		"4"
+		{
+			"command"	"play buttons/button11; scripted_user_func kill"
+			"label"		" Kill"
+		}
+		"0"
+		{
+			"command"	"play buttons/button11"
+			"label"		" Exit"
+		}
+	}
+
+	"Host"
+	{
+		"Title"		"Host Menu"
+		"1"
+		{
+			"command"	"play buttons/button11; scripted_user_func forcestart"
+			"label"		" Force Start"
+		}
+		"2"
+		{
+			"command"	"play buttons/button11; scripted_user_func forcestop"
+			"label"		" Force Stop"
+		}
+		"3"
+		{
+			"command"	"play buttons/button14; show_menu Menu"
+			"label"		" Back"
+		}
+		"0"
+		{
+			"command"	"play buttons/button11"
+			"label"		" Exit"
+		}
+	}
+}

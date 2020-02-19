@@ -1,0 +1,21 @@
+"deathmatch"
+{
+	"base"		"coop"
+
+	"maxplayers"	"8"
+	"hasdifficulty"	"0"
+	"singlechapter"	"1"
+
+	"DisplayTitle"	"Deathmatch"
+	"Description"	"Kill eachother"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+
+	convar
+	{
+		director_no_death_check 1
+		bullet_ff_through_walls 1
+		hud_targetid_name_height 9999999
+		ui_lobby_start_enabled 1
+	}
+}	

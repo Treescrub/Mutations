@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Deathmatch"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID "LEAVE THIS BLANK"
+addonDescription "Ever hated your friends' guts? Ever wanted to shoot them because they're annoying? Well now you can!"
+}

@@ -1,0 +1,19 @@
+"viralcarrier"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Viral Carrier"
+	"Description"	"Hunt the Fallen Survivors"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+
+	convar
+	{
+		director_no_death_check 1
+		z_fallen_kill_suppress_time 0
+		z_fallen_max_count 30
+		z_no_cull 1
+	}
+}	

@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "No Shoving"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID ""
+addonDescription "Disables shoving"
+}

@@ -1,0 +1,12 @@
+"noshoving"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty"	"1"
+
+	"DisplayTitle"	"No Shoving"
+	"Description"	"Disable shoving"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	
