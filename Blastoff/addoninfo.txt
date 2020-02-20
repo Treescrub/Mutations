@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Blastoff"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID "LEAVE THIS BLANK"
+addonURL0 "Optional URL to outside website"
+addonDescription "Mutation for fortnight challenge. Rocket jumping!"
+}

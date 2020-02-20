@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Special Infected Change Every Now and Then"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonDescription "Special infected change every now and then"
+}

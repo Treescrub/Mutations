@@ -1,0 +1,11 @@
+"extremespite"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Extreme Spite"
+	"Description"	"Also has lots of tanks."
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	

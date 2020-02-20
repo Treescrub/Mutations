@@ -1,0 +1,11 @@
+"dynamicblastoff"
+{
+	"base"		"coop"
+
+	"maxplayers"	"1"
+
+	"DisplayTitle"	"Dynamic Blastoff"
+	"Description"	"Wheeee!"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	

@@ -1,0 +1,11 @@
+"spiteversus"
+{
+	"base"		"versus"
+	"playercontrolledzombies"	"1"
+	"maxplayers"	"8"
+
+	"DisplayTitle"	"Versus Spite"
+	"Description"	"Lots of tanks."
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	

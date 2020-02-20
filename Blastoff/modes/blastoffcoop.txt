@@ -1,0 +1,11 @@
+"blastoffcoop"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Blastoff Coop"
+	"Description"	"Wheeee!"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	

@@ -1,0 +1,11 @@
+"swapping"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Special Infected Change Every Now and Then"
+	"Description"	"Special infected change every now and then"
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	

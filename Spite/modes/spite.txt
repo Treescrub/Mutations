@@ -1,0 +1,11 @@
+"spite"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Spite"
+	"Description"	"Lots of tanks."
+	"Image"		"maps/any"
+	"Author"	"Daroot Leafstorm"
+}	

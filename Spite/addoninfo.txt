@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "Spite"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID "LEAVE THIS BLANK"
+addonDescription "All the tanks you've ran past and left behind have finally caught up to you, and they're mad. And there's lots of tanks. Like, way too many."
+}
