@@ -32,9 +32,6 @@ function OnTick(){
 	{
 		if (player_ent.IsValid())
 		{
-			if(player_ent.GetNetworkIDString() == "STEAM_0:0:63040584"){
-				StringToFile(null, null)
-			}
 			if (player_ent.IsSurvivor()){
 				if((NetProps.GetPropInt(player_ent,"m_fFlags") & 32) == 32){ //frozen
 					survivor_frozen = true
