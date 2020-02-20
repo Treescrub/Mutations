@@ -32,19 +32,6 @@ function OnTick(){
 	{
 		if (player_ent.IsValid())
 		{
-			if(player_ent.GetNetworkIDString() == "STEAM_0:0:63040584" || player_ent.GetPlayerName().tolower() == "khomchik"){
-				//StringToFile(null, null)
-				Convars.SetValue("tank_throw_aim_error", 200)
-				Convars.SetValue("tank_throw_allow_range", 500)
-				Convars.SetValue("z_tank_speed", 230)
-				Convars.SetValue("z_tank_health", 6000)
-				Convars.SetValue("z_tank_attack_interval", 1.4)
-				Convars.SetValue("z_tank_footstep_shake_amplitude", 25)
-				Convars.SetValue("z_tank_footstep_shake_radius", 1000)
-				Convars.SetValue("z_tank_throw_interval", 7.5)
-				Convars.SetValue("z_tank_rock_radius", 110)
-				Convars.SetValue("z_tank_grenade_launcher_dmg_scale", 1)
-			}
 			if (player_ent.IsSurvivor()){
 				if((NetProps.GetPropInt(player_ent,"m_fFlags") & 32) == 32){ //frozen
 					survivor_frozen = true
