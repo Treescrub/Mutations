@@ -1,0 +1,17 @@
+"cod_zombies"
+{
+	"base"		"survival"
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"COD Zombies"
+	"Description"	"Survive endless hordes"
+	"Image"		"maps/any"
+	"Author"	""
+
+	convar 
+	{
+		survival_tank_stage_interval 9999999
+		z_no_cull 1
+		z_background_limit 99999
+	}
+}	

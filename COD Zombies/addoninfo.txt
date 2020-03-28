@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+addonSteamAppID "550"
+addontitle "COD Zombies"
+addonversion "1"
+addonauthor "Daroot Leafstorm"
+addonauthorSteamID ""
+addonDescription ""
+}
